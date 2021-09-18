@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zahalomer
-- 👀 I’m interested in backend development 
-- 🌱 I’m currently learning javascript & Python and also Django framework  
+- 👀 I’m  react native developer
+- 🌱 I’m currently developing m-learning App 
 - 📫 reach me by my gmail [sahalindho45@gmail.com]
